@@ -1,0 +1,671 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>UmengSocialWP</name>
+    </assembly>
+    <members>
+        <member name="M:UmengSocialSDK.Business.ImageHelper.GetThumbImage(System.Windows.Media.Imaging.BitmapImage,System.Int32,System.Int32)">
+            <summary>
+            获取缩略图
+            </summary>
+            <param name="bitmap">原图像</param>
+            <param name="width">缩略图宽</param>
+            <param name="height">缩略图高</param>
+            <returns>缩略图流</returns>
+        </member>
+        <member name="M:UmengSocialSDK.Business.ImageHelper.GetImageData(System.Windows.Media.Imaging.BitmapImage)">
+            <summary>
+            获取缩略图
+            </summary>
+            <param name="source">原图像流</param>
+            <param name="width">缩略图宽</param>
+            <param name="height">缩略图高</param>
+            <returns>缩略图流</returns>
+        </member>
+        <member name="M:UmengSocialSDK.Business.ImageHelper.GetThumbImage(System.IO.Stream,System.Int32,System.Int32)">
+            <summary>
+            获取缩略图
+            </summary>
+            <param name="source">原图像流</param>
+            <param name="width">缩略图宽</param>
+            <param name="height">缩略图高</param>
+            <returns>缩略图流</returns>
+        </member>
+        <member name="T:UmengSocialSDK.Business.TiltEffect">
+            <summary>
+            This code provides attached properties for adding a 'tilt' effect to all controls within a container.
+            </summary>
+        </member>
+        <member name="F:UmengSocialSDK.Business.TiltEffect.MaxAngle">
+            <summary>
+            Maximum amount of tilt, in radians
+            </summary>
+        </member>
+        <member name="F:UmengSocialSDK.Business.TiltEffect.MaxDepression">
+            <summary>
+            Maximum amount of depression, in pixels
+            </summary>
+        </member>
+        <member name="M:UmengSocialSDK.Business.TiltEffect.#ctor">
+            <summary>
+            This is not a constructable class, but it cannot be static because it derives from DependencyObject.
+            </summary>
+        </member>
+        <member name="M:UmengSocialSDK.Business.TiltEffect.#cctor">
+            <summary>
+            Initialize the static properties
+            </summary>
+        </member>
+        <member name="F:UmengSocialSDK.Business.TiltEffect.TiltReturnAnimationDelay">
+            <summary>
+            Delay between releasing an element and the tilt release animation playing
+            </summary>
+        </member>
+        <member name="F:UmengSocialSDK.Business.TiltEffect.TiltReturnAnimationDuration">
+            <summary>
+            Duration of tilt release animation
+            </summary>
+        </member>
+        <member name="F:UmengSocialSDK.Business.TiltEffect.currentTiltElement">
+            <summary>
+            The control that is currently being tilted
+            </summary>
+        </member>
+        <member name="F:UmengSocialSDK.Business.TiltEffect.tiltReturnStoryboard">
+            <summary>
+            The single instance of a storyboard used for all tilts
+            </summary>
+        </member>
+        <member name="F:UmengSocialSDK.Business.TiltEffect.tiltReturnXAnimation">
+            <summary>
+            The single instance of an X rotation used for all tilts
+            </summary>
+        </member>
+        <member name="F:UmengSocialSDK.Business.TiltEffect.tiltReturnYAnimation">
+            <summary>
+            The single instance of a Y rotation used for all tilts
+            </summary>
+        </member>
+        <member name="F:UmengSocialSDK.Business.TiltEffect.tiltReturnZAnimation">
+            <summary>
+            The single instance of a Z depression used for all tilts
+            </summary>
+        </member>
+        <member name="F:UmengSocialSDK.Business.TiltEffect.currentTiltElementCenter">
+            <summary>
+            The center of the tilt element
+            </summary>
+        </member>
+        <member name="F:UmengSocialSDK.Business.TiltEffect.wasPauseAnimation">
+            <summary>
+            Whether the animation just completed was for a 'pause' or not
+            </summary>
+        </member>
+        <member name="F:UmengSocialSDK.Business.TiltEffect.IsTiltEnabledProperty">
+            <summary>
+            Whether the tilt effect is enabled on a container (and all its children)
+            </summary>
+        </member>
+        <member name="M:UmengSocialSDK.Business.TiltEffect.GetIsTiltEnabled(System.Windows.DependencyObject)">
+            <summary>
+            Gets the IsTiltEnabled dependency property from an object
+            </summary>
+            <param name="source">The object to get the property from</param>
+            <returns>The property's value</returns>
+        </member>
+        <member name="M:UmengSocialSDK.Business.TiltEffect.SetIsTiltEnabled(System.Windows.DependencyObject,System.Boolean)">
+            <summary>
+            Sets the IsTiltEnabled dependency property on an object
+            </summary>
+            <param name="source">The object to set the property on</param>
+            <param name="value">The value to set</param>
+        </member>
+        <member name="F:UmengSocialSDK.Business.TiltEffect.SuppressTiltProperty">
+            <summary>
+            Suppresses the tilt effect on a single control that would otherwise be tilted
+            </summary>
+        </member>
+        <member name="M:UmengSocialSDK.Business.TiltEffect.GetSuppressTilt(System.Windows.DependencyObject)">
+            <summary>
+            Gets the SuppressTilt dependency property from an object
+            </summary>
+            <param name="source">The object to get the property from</param>
+            <returns>The property's value</returns>
+        </member>
+        <member name="M:UmengSocialSDK.Business.TiltEffect.SetSuppressTilt(System.Windows.DependencyObject,System.Boolean)">
+            <summary>
+            Sets the SuppressTilt dependency property from an object
+            </summary>
+            <param name="source">The object to get the property from</param>
+            <returns>The property's value</returns>
+        </member>
+        <member name="M:UmengSocialSDK.Business.TiltEffect.OnIsTiltEnabledChanged(System.Windows.DependencyObject,System.Windows.DependencyPropertyChangedEventArgs)">
+            <summary>
+            Property change handler for the IsTiltEnabled dependency property
+            </summary>
+            <param name="target">The element that the property is atteched to</param>
+            <param name="args">Event args</param>
+            <remarks>
+            Adds or removes event handlers from the element that has been (un)registered for tilting
+            </remarks>
+        </member>
+        <member name="M:UmengSocialSDK.Business.TiltEffect.TiltEffect_ManipulationStarted(System.Object,System.Windows.Input.ManipulationStartedEventArgs)">
+            <summary>
+            Event handler for ManipulationStarted
+            </summary>
+            <param name="sender">sender of the event - this will be the tilt container (eg, entire page)</param>
+            <param name="e">event args</param>
+        </member>
+        <member name="M:UmengSocialSDK.Business.TiltEffect.TiltEffect_ManipulationDelta(System.Object,System.Windows.Input.ManipulationDeltaEventArgs)">
+            <summary>
+            Event handler for ManipulationDelta
+            </summary>
+            <param name="sender">sender of the event - this will be the tilting object (eg a button)</param>
+            <param name="e">event args</param>
+        </member>
+        <member name="M:UmengSocialSDK.Business.TiltEffect.TiltEffect_ManipulationCompleted(System.Object,System.Windows.Input.ManipulationCompletedEventArgs)">
+            <summary>
+            Event handler for ManipulationCompleted
+            </summary>
+            <param name="sender">sender of the event - this will be the tilting object (eg a button)</param>
+            <param name="e">event args</param>
+        </member>
+        <member name="M:UmengSocialSDK.Business.TiltEffect.TryStartTiltEffect(System.Windows.FrameworkElement,System.Windows.Input.ManipulationStartedEventArgs)">
+            <summary>
+            Checks if the manipulation should cause a tilt, and if so starts the tilt effect
+            </summary>
+            <param name="source">The source of the manipulation (the tilt container, eg entire page)</param>
+            <param name="e">The args from the ManipulationStarted event</param>
+        </member>
+        <member name="M:UmengSocialSDK.Business.TiltEffect.GetCenterToCenterDelta(System.Windows.FrameworkElement,System.Windows.FrameworkElement)">
+            <summary>
+            Computes the delta between the centre of an element and its container
+            </summary>
+            <param name="element">The element to compare</param>
+            <param name="container">The element to compare against</param>
+            <returns>A point that represents the delta between the two centers</returns>
+        </member>
+        <member name="M:UmengSocialSDK.Business.TiltEffect.BeginTiltEffect(System.Windows.FrameworkElement,System.Windows.Point,System.Windows.Point,System.Windows.Point)">
+            <summary>
+            Begins the tilt effect by preparing the control and doing the initial animation
+            </summary>
+            <param name="element">The element to tilt </param>
+            <param name="touchPoint">The touch point, in element coordinates</param>
+            <param name="centerPoint">The center point of the element in element coordinates</param>
+            <param name="centerDelta">The delta between the <paramref name="element"/>'s center and 
+            the container's center</param>
+        </member>
+        <member name="M:UmengSocialSDK.Business.TiltEffect.PrepareControlForTilt(System.Windows.FrameworkElement,System.Windows.Point)">
+            <summary>
+            Prepares a control to be tilted by setting up a plane projection and some event handlers
+            </summary>
+            <param name="element">The control that is to be tilted</param>
+            <param name="centerDelta">Delta between the element's center and the tilt container's</param>
+            <returns>true if successful; false otherwise</returns>
+            <remarks>
+            This method is conservative; it will fail any attempt to tilt a control that already
+            has a projection on it
+            </remarks>
+        </member>
+        <member name="M:UmengSocialSDK.Business.TiltEffect.RevertPrepareControlForTilt(System.Windows.FrameworkElement)">
+            <summary>
+            Removes modifications made by PrepareControlForTilt
+            </summary>
+            <param name="element">THe control to be un-prepared</param>
+            <remarks>
+            This method is basic; it does not do anything to detect if the control being un-prepared
+            was previously prepared
+            </remarks>
+        </member>
+        <member name="M:UmengSocialSDK.Business.TiltEffect.PrepareTiltReturnStoryboard(System.Windows.FrameworkElement)">
+            <summary>
+            Creates the tilt return storyboard (if not already created) and targets it to the projection
+            </summary>
+            <param name="projection">the projection that should be the target of the animation</param>
+        </member>
+        <member name="M:UmengSocialSDK.Business.TiltEffect.ContinueTiltEffect(System.Windows.FrameworkElement,System.Windows.Input.ManipulationDeltaEventArgs)">
+            <summary>
+            Continues a tilt effect that is currently applied to an element, presumably because
+            the user moved their finger
+            </summary>
+            <param name="element">The element being tilted</param>
+            <param name="e">The manipulation event args</param>
+        </member>
+        <member name="M:UmengSocialSDK.Business.TiltEffect.EndTiltEffect(System.Windows.FrameworkElement)">
+            <summary>
+            Ends the tilt effect by playing the animation  
+            </summary>
+            <param name="element">The element being tilted</param>
+        </member>
+        <member name="M:UmengSocialSDK.Business.TiltEffect.TiltReturnStoryboard_Completed(System.Object,System.EventArgs)">
+            <summary>
+            Handler for the storyboard complete event
+            </summary>
+            <param name="sender">sender of the event</param>
+            <param name="e">event args</param>
+        </member>
+        <member name="M:UmengSocialSDK.Business.TiltEffect.ResetTiltEffect(System.Windows.FrameworkElement)">
+            <summary>
+            Resets the tilt effect on the control, making it appear 'normal' again 
+            </summary>
+            <param name="element">The element to reset the tilt on</param>
+            <remarks>
+            This method doesn't turn off the tilt effect or cancel any current
+            manipulation; it just temporarily cancels the effect
+            </remarks>
+        </member>
+        <member name="M:UmengSocialSDK.Business.TiltEffect.StopTiltReturnStoryboardAndCleanup">
+            <summary>
+            Stops the tilt effect and release resources applied to the currently-tilted control
+            </summary>
+        </member>
+        <member name="M:UmengSocialSDK.Business.TiltEffect.PauseTiltEffect">
+            <summary>
+            Pauses the tilt effect so that the control returns to the 'at rest' position, but doesn't
+            stop the tilt effect (handlers are still attached, etc.)
+            </summary>
+        </member>
+        <member name="M:UmengSocialSDK.Business.TiltEffect.ResetTiltReturnStoryboard">
+            <summary>
+            Resets the storyboard to not running
+            </summary>
+        </member>
+        <member name="M:UmengSocialSDK.Business.TiltEffect.ApplyTiltEffect(System.Windows.FrameworkElement,System.Windows.Point,System.Windows.Point)">
+            <summary>
+            Applies the tilt effect to the control
+            </summary>
+            <param name="element">the control to tilt</param>
+            <param name="touchPoint">The touch point, in the container's coordinates</param>
+            <param name="centerPoint">The center point of the container</param>
+        </member>
+        <member name="P:UmengSocialSDK.Business.TiltEffect.UseLogarithmicEase">
+            <summary>
+            Whether to use a slightly more accurate (but slightly slower) tilt animation easing function
+            </summary>
+        </member>
+        <member name="P:UmengSocialSDK.Business.TiltEffect.TiltableItems">
+            <summary>
+            Default list of items that are tiltable
+            </summary>
+        </member>
+        <member name="T:UmengSocialSDK.Business.TiltEffect.LogarithmicEase">
+            <summary>
+            Provides an easing function for the tilt return
+            </summary>
+        </member>
+        <member name="M:UmengSocialSDK.Business.TiltEffect.LogarithmicEase.EaseInCore(System.Double)">
+            <summary>
+            Computes the easing function
+            </summary>
+            <param name="normalizedTime">The time</param>
+            <returns>The eased value</returns>
+        </member>
+        <member name="T:UmengSocialSDK.Business.TreeHelpers">
+            <summary>
+            Couple of simple helpers for walking the visual tree
+            </summary>
+        </member>
+        <member name="M:UmengSocialSDK.Business.TreeHelpers.GetVisualAncestors(System.Windows.FrameworkElement)">
+            <summary>
+            Gets the ancestors of the element, up to the root
+            </summary>
+            <param name="node">The element to start from</param>
+            <returns>An enumerator of the ancestors</returns>
+        </member>
+        <member name="M:UmengSocialSDK.Business.TreeHelpers.GetVisualParent(System.Windows.FrameworkElement)">
+            <summary>
+            Gets the visual parent of the element
+            </summary>
+            <param name="node">The element to check</param>
+            <returns>The visual parent</returns>
+        </member>
+        <member name="M:UmengSocialSDK.Net.Common.DateTimeHelper.GetMilliseconds(System.DateTime)">
+            <summary>
+            获取从1970-07-01到当前时间的总毫秒数
+            </summary>
+            <param name="date"></param>
+            <returns></returns>
+        </member>
+        <member name="M:UmengSocialSDK.Net.Common.DateTimeHelper.GetDateTime(System.Double)">
+            <summary>
+            根据从1970-07-01计算的毫秒数获取时间
+            </summary>
+            <param name="milliseconds"></param>
+            <returns></returns>
+        </member>
+        <!-- 对于成员“T:UmengSocialSDK.Net.Common.JSON”忽略有格式错误的 XML 注释 -->
+        <!-- 对于成员“M:UmengSocialSDK.Net.Common.JSON.JsonDecode(System.String)”忽略有格式错误的 XML 注释 -->
+        <!-- 对于成员“M:UmengSocialSDK.Net.Common.JSON.JsonDecode(System.String,System.Boolean@)”忽略有格式错误的 XML 注释 -->
+        <!-- 对于成员“M:UmengSocialSDK.Net.Common.JSON.JsonEncode(System.Object)”忽略有格式错误的 XML 注释 -->
+        <member name="M:UmengSocialSDK.Net.Common.JSON.Deserialize(System.String,System.Type)">
+            <summary>
+            反序列化成已知类型的实例
+            </summary>
+            <param name="responseStr"></param>
+            <param name="objType"></param>
+            <returns></returns>
+        </member>
+        <member name="T:UmengSocialSDK.Business.IsoSettingsHelper">
+            <summary>
+            provide safe method , with internal try-catch block, 
+            Get Method return null if fail
+            </summary>
+        </member>
+        <member name="M:UmengSocialSDK.Net.GetActionBarRequest.Send">
+            <summary>
+            获取App的EntityKey,Uid等信息[1001]
+            </summary>
+            <param name="imei">用户设备号</param>
+            <param name="imsi">用户SIM卡信息(unknown)</param>
+            <returns></returns>
+        </member>
+        <member name="M:UmengSocialSDK.Net.GetOAuthPageRequest.Send">
+            <summary>
+            获取App的EntityKey,Uid等信息[1001]
+            </summary>
+            <param name="imei">用户设备号</param>
+            <param name="imsi">用户SIM卡信息(unknown)</param>
+            <returns></returns>
+        </member>
+        <member name="M:UmengSocialSDK.Net.GetPlatformInfoRequest.Send">
+            <summary>
+            获取App的EntityKey,Uid等信息[1001]
+            </summary>
+            <param name="imei">用户设备号</param>
+            <param name="imsi">用户SIM卡信息(unknown)</param>
+            <returns></returns>
+        </member>
+        <member name="M:UmengSocialSDK.Net.PostMultiShareRequest.Send">
+            <summary>
+            分享到多平台
+            </summary>
+            <param name="shareData">被分享的数据</param>
+            <returns>
+                true:发送分享请求成功
+                false:发送分享请求失败
+            </returns>
+        </member>
+        <member name="M:UmengSocialSDK.Net.Agent.DownloadCompletedEventArgs.#ctor(UmengSocialSDK.Net.Agent.HttpWebRequestResult,System.String)">
+            <summary>
+            Creates a new instance of DownloadCompletedEventArgs with the specified result data.
+            </summary>
+            <param name="result">The data that is downloaded by a DownloadStringAsync method.</param>
+        </member>
+        <member name="P:UmengSocialSDK.Net.Agent.DownloadCompletedEventArgs.Result">
+            <summary>
+            Gets the data that is downloaded by a DownloadStringAsync method.
+            </summary>
+        </member>
+        <member name="P:UmengSocialSDK.Net.Agent.DownloadCompletedEventArgs.ResultCode">
+            <summary>
+            Gets a value that indicates which error occurred during an asynchronous operation.
+            </summary>
+        </member>
+        <member name="F:UmengSocialSDK.Net.Agent.HttpWebRequestAgent.DownloadCompleted">
+            <summary>
+            Occurs when an request operation is completed.
+            </summary>
+        </member>
+        <member name="P:UmengSocialSDK.Net.Agent.HttpWebRequestAgent.IsNetworkAvailable">
+            <summary>
+            检查当前手机网络是否可用
+            </summary>
+            <returns>可用为true，否则为false</returns>
+        </member>
+        <member name="T:UmengSocialSDK.Net.Agent.HttpWebRequestAgent.DownloadCompletedHandler">
+            <summary>
+            Event handler for DownloadStringCompleted event.
+            </summary>
+            <param name="sender">Object firing the event.</param>
+            <param name="e">Argument holding the data downloaded.</param>
+        </member>
+        <member name="T:YeepayLibrary.NetCommunication.Common.Helper.SetProperties">
+            <summary>
+            用于构建属性值的回调
+            </summary>
+            <param name="Property"></param>
+        </member>
+        <member name="T:YeepayLibrary.NetCommunication.Common.Helper.JsonPropertyType">
+            <summary>
+            JsonObject属性值类型
+            </summary>
+        </member>
+        <member name="T:YeepayLibrary.NetCommunication.Common.Helper.JsonObject">
+            <summary>
+            JSON通用对象
+            </summary>
+        </member>
+        <member name="M:YeepayLibrary.NetCommunication.Common.Helper.JsonObject.Deserialize(System.String,System.Type)">
+            <summary>
+            反序列化成已知类型的实例
+            </summary>
+            <param name="responseStr"></param>
+            <param name="objType"></param>
+            <returns></returns>
+        </member>
+        <member name="M:YeepayLibrary.NetCommunication.Common.Helper.JsonObject.Parse(System.String@)">
+            <summary>
+            Json字符串解析
+            </summary>
+            <param name="jsonString"></param>
+        </member>
+        <member name="M:YeepayLibrary.NetCommunication.Common.Helper.JsonObject.Properties``1(System.String)">
+            <summary>
+            通过此泛型函数可直接获取指定类型属性的值
+            </summary>
+            <typeparam name="T"></typeparam>
+            <param name="PropertyName"></param>
+            <returns></returns>
+        </member>
+        <member name="M:YeepayLibrary.NetCommunication.Common.Helper.JsonObject.GetPropertyNames">
+            <summary>
+            获取属性名称列表
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:YeepayLibrary.NetCommunication.Common.Helper.JsonObject.RemoveProperty(System.String)">
+            <summary>
+            移除一个属性
+            </summary>
+            <param name="PropertyName"></param>
+            <returns></returns>
+        </member>
+        <member name="M:YeepayLibrary.NetCommunication.Common.Helper.JsonObject.IsNull">
+            <summary>
+            是否为空对象
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:YeepayLibrary.NetCommunication.Common.Helper.JsonObject.ToString(System.String)">
+            <summary>
+            ToString...
+            </summary>
+            <param name="format">格式化字符串</param>
+            <returns></returns>
+        </member>
+        <member name="P:YeepayLibrary.NetCommunication.Common.Helper.JsonObject.Item(System.String)">
+            <summary>
+            获取属性
+            </summary>
+            <param name="PropertyName"></param>
+            <returns></returns>
+        </member>
+        <member name="T:YeepayLibrary.NetCommunication.Common.Helper.JsonProperty">
+            <summary>
+            JSON对象属性
+            </summary>
+        </member>
+        <member name="M:YeepayLibrary.NetCommunication.Common.Helper.JsonProperty.Parse(System.String@)">
+            <summary>
+            Json字符串解析
+            </summary>
+            <param name="jsonString"></param>
+        </member>
+        <member name="M:YeepayLibrary.NetCommunication.Common.Helper.JsonProperty.ParseArray(System.String@)">
+            <summary>
+            Json Array解析
+            </summary>
+            <param name="jsonString"></param>
+            <returns></returns>
+        </member>
+        <member name="M:YeepayLibrary.NetCommunication.Common.Helper.JsonProperty.ParseString(System.String@)">
+            <summary>
+            Json String解析
+            </summary>
+            <param name="jsonString"></param>
+            <returns></returns>
+        </member>
+        <member name="M:YeepayLibrary.NetCommunication.Common.Helper.JsonProperty.ParseObject(System.String@)">
+            <summary>
+            Json Object解析
+            </summary>
+            <param name="jsonString"></param>
+            <returns></returns>
+        </member>
+        <member name="P:YeepayLibrary.NetCommunication.Common.Helper.JsonProperty.Item(System.Int32)">
+            <summary>
+            定义一个索引器，如果属性是非数组的，返回本身
+            </summary>
+            <param name="index"></param>
+            <returns></returns>
+        </member>
+        <member name="P:YeepayLibrary.NetCommunication.Common.Helper.JsonProperty.Item(System.String)">
+            <summary>
+            提供一个字符串索引，简化对Object属性的访问
+            </summary>
+            <param name="PropertyName"></param>
+            <returns></returns>
+        </member>
+        <member name="P:YeepayLibrary.NetCommunication.Common.Helper.JsonProperty.Object">
+            <summary>
+            JsonObject值
+            </summary>
+        </member>
+        <member name="P:YeepayLibrary.NetCommunication.Common.Helper.JsonProperty.Value">
+            <summary>
+            字符串值
+            </summary>
+        </member>
+        <member name="P:YeepayLibrary.NetCommunication.Common.Helper.JsonProperty.Items">
+            <summary>
+            Array值，如果属性是非数组的，则封装成只有一个元素的数组
+            </summary>
+        </member>
+        <member name="P:YeepayLibrary.NetCommunication.Common.Helper.JsonProperty.Number">
+            <summary>
+            数值
+            </summary>
+        </member>
+        <member name="P:UmengSocialSDK.Statistics.StatisticsItem.InterfaceID">
+            <summary>
+            1：带平台面板分享
+            2：指定平台分享 
+            3：授权
+            4：获取用户信息
+            </summary>
+        </member>
+        <member name="P:UmengSocialSDK.Statistics.StatisticsItem.Platform">
+            <summary>
+            根据SharePlatform定义
+            </summary>
+        </member>
+        <!-- 对于成员“P:UmengSocialSDK.Statistics.StatisticsItem.Result”忽略有格式错误的 XML 注释 -->
+        <member name="M:UmengSocialSDK.UmengSocial.Share(System.String,UmengSocialSDK.Net.Request.ShareData,System.Collections.Generic.Dictionary{UmengSocialSDK.SharePlatform,UmengSocialSDK.PlatformInfo},Microsoft.Phone.Controls.PhoneApplicationPage,UmengSocialSDK.ShareOption)">
+            <summary>
+            展示平台面板，选择平台进行分享
+            </summary>
+            <param name="appKey">在友盟主页获取的应用密钥</param>
+            <param name="shareData">分享的数据</param>
+            <param name="page">分享所在页</param>
+            <param name="ShareCompleted">分享结束后的回调</param>
+            <param name="descriptor">分享描述符</param>
+        </member>
+        <member name="M:UmengSocialSDK.UmengSocial.Share(System.String,UmengSocialSDK.Net.Request.ShareData,UmengSocialSDK.SharePlatform,UmengSocialSDK.PlatformInfo,Microsoft.Phone.Controls.PhoneApplicationPage,UmengSocialSDK.ShareOption)">
+            <summary>
+            分享到开发者指定的平台
+            </summary>
+            <param name="appKey">在友盟主页获取的应用密钥</param>
+            <param name="shareData">分享的数据</param>
+            <param name="platform">目标平台</param>
+            <param name="page">分享所在页</param>
+            <param name="ShareCompleted">分享结束后的回调</param>
+            <param name="descriptor">分享描述符</param>    
+        </member>
+        <member name="M:UmengSocialSDK.UmengSocial.CheckAuthorized(UmengSocialSDK.SharePlatform)">
+            <summary>
+            检查传入的平台是否已授权
+            </summary>
+            <param name="platform">目标平台</param>
+            <returns>
+                true:已授权 
+                false:未授权
+            </returns>
+        </member>
+        <member name="M:UmengSocialSDK.UmengSocial.Authorize(System.String,UmengSocialSDK.SharePlatform,Microsoft.Phone.Controls.PhoneApplicationPage,UmengSocialSDK.UmengSocial.AuthorizeCompletedHandler)">
+            <summary>
+            社交平台认证（暂不支持微信）
+            </summary>
+            <param name="appKey">在友盟申请的应用密钥</param>
+            <param name="platform">认证的社交平台</param>
+            <param name="page">当前所在页面</param>
+            <param name="AuthorizeCompleted">认证回调</param>
+            <param name="descriptor">资源描述符</param>
+        </member>
+        <member name="M:UmengSocialSDK.UmengSocial.GetUserInfo(System.String,UmengSocialSDK.SharePlatform,UmengSocialSDK.UmengSocial.GetUserInfoCompletedHandler)">
+            <summary>
+            获取用户指定平台的信息（要先进行授权）
+            </summary>
+            <param name="appKey">在友盟主页获取的应用密钥</param>
+            <param name="platform">目标平台</param>
+            <param name="GetUserInfoCompleted">完成回调</param>
+        </member>
+        <member name="P:UmengSocialSDK.UmengSocial.IsDebug">
+            <summary>
+            是否输出调试信息
+            </summary>
+        </member>
+        <member name="P:UmengSocialSDK.UmengSocial.IsShown">
+            <summary>
+            是否正在显示友盟弹出窗口
+            </summary>
+        </member>
+        <member name="M:UmengSocialSDK.Views.LoadingView.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="M:UmengSocialSDK.Views.OAuthView.GetAuthorization">
+            <summary>
+            获取用户授权[1001]
+            </summary>
+            <param name="platform">分享目标平台</param>
+            <param name="source">分享来源(unknown)</param>
+            <returns></returns>
+        </member>
+        <member name="M:UmengSocialSDK.Views.OAuthView.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="M:UmengSocialSDK.Views.PlatformView.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="M:UmengSocialSDK.Views.PopupCotainer.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="M:UmengSocialSDK.Views.ShareCompletedView.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="M:UmengSocialSDK.Views.ShareView.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+    </members>
+</doc>

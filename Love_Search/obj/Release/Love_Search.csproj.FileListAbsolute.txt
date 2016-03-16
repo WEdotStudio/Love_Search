@@ -1,0 +1,106 @@
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Love_Search\bin\Release\App.xbf
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Love_Search\bin\Release\MainPage.xbf
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Love_Search\bin\Release\Love_Search.xr.xml
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Love_Search\bin\Release\Love_Search.exe
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Love_Search\bin\Release\Love_Search.pdb
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Love_Search\bin\Release\resources.pri
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Love_Search\bin\Release\AppxManifest.xml
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Love_Search\bin\Release\Love_Search.build.appxrecipe
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Love_Search\obj\Release\App.g.i.cs
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Love_Search\obj\Release\App.g.cs
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Love_Search\obj\Release\MainPage.g.i.cs
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Love_Search\obj\Release\MainPage.g.cs
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Love_Search\obj\Release\XamlTypeInfo.g.cs
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Love_Search\obj\Release\App.xaml
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Love_Search\obj\Release\App.xbf
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Love_Search\obj\Release\XamlSaveStateFile.xml
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Love_Search\obj\Release\MainPage.xaml
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Love_Search\obj\Release\MainPage.xbf
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Love_Search\obj\Release\Love_Search.exe
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Love_Search\obj\Release\Love_Search.pdb
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Love_Search\obj\Release\priconfig.xml
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Love_Search\obj\Release\priconfig.xml.intermediate
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Love_Search\obj\Release\layout.resfiles
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Love_Search\obj\Release\layout.resfiles.intermediate
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Love_Search\obj\Release\resources.resfiles
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Love_Search\obj\Release\resources.resfiles.intermediate
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Love_Search\obj\Release\pri.resfiles
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Love_Search\obj\Release\pri.resfiles.intermediate
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Love_Search\obj\Release\qualifiers.txt
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Love_Search\obj\Release\qualifiers.txt.intermediate
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Love_Search\obj\Release\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Love_Search\obj\Release\ProjectArchitectures.txt
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Love_Search\bin\Release\Microsoft.Live.dll
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Love_Search\bin\Release\Newtonsoft.Json.dll
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Love_Search\bin\Release\System.Net.Http.Extensions.dll
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Love_Search\bin\Release\System.Net.Http.Primitives.dll
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Love_Search\bin\Release\Newtonsoft.Json.xml
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Love_Search\bin\Release\System.Net.Http.Extensions.xml
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Love_Search\bin\Release\System.Net.Http.Primitives.xml
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Love_Search\obj\Release\Love_Search.csprojResolveAssemblyReference.cache
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Love_Search\obj\Release\Love_Search.csproj.GenerateResource.Cache
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Love_Search\bin\Release\Coding4Fun.Toolkit.Audio.dll
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Love_Search\bin\Release\Coding4Fun.Toolkit.Controls.dll
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Love_Search\bin\Release\Coding4Fun.Toolkit.Net.dll
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Love_Search\bin\Release\Coding4Fun.Toolkit.Storage.dll
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Love_Search\bin\Release\Coding4Fun.Toolkit.Audio.pri
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Love_Search\bin\Release\Coding4Fun.Toolkit.Controls.pri
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Love_Search\bin\Release\Coding4Fun.Toolkit.Net.pri
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Love_Search\bin\Release\Coding4Fun.Toolkit.Storage.pri
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Love_Search\obj\Release\Coding4Fun.Toolkit.Audio.pri.xml
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Love_Search\obj\Release\Coding4Fun.Toolkit.Controls.pri.xml
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Love_Search\obj\Release\Coding4Fun.Toolkit.Net.pri.xml
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Love_Search\obj\Release\Coding4Fun.Toolkit.Storage.pri.xml
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Love_Search\bin\Release\App.xbf
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Love_Search\bin\Release\MainPage.xbf
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Love_Search\bin\Release\Love_Search.xr.xml
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Love_Search\bin\Release\Love_Search.exe
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Love_Search\bin\Release\Love_Search.pdb
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Love_Search\bin\Release\resources.pri
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Love_Search\bin\Release\AppxManifest.xml
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Love_Search\bin\Release\Love_Search.build.appxrecipe
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Love_Search\bin\Release\Coding4Fun.Toolkit.Audio.dll
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Love_Search\bin\Release\Coding4Fun.Toolkit.Controls.dll
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Love_Search\bin\Release\Coding4Fun.Toolkit.Net.dll
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Love_Search\bin\Release\Coding4Fun.Toolkit.Storage.dll
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Love_Search\bin\Release\Microsoft.Live.dll
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Love_Search\bin\Release\Newtonsoft.Json.dll
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Love_Search\bin\Release\System.Net.Http.Extensions.dll
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Love_Search\bin\Release\System.Net.Http.Primitives.dll
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Love_Search\bin\Release\Coding4Fun.Toolkit.Audio.pri
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Love_Search\bin\Release\Coding4Fun.Toolkit.Controls.pri
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Love_Search\bin\Release\Coding4Fun.Toolkit.Net.pri
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Love_Search\bin\Release\Coding4Fun.Toolkit.Storage.pri
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Love_Search\bin\Release\Newtonsoft.Json.xml
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Love_Search\bin\Release\System.Net.Http.Extensions.xml
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Love_Search\bin\Release\System.Net.Http.Primitives.xml
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Love_Search\obj\Release\Love_Search.csprojResolveAssemblyReference.cache
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Love_Search\obj\Release\App.g.i.cs
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Love_Search\obj\Release\App.g.cs
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Love_Search\obj\Release\MainPage.g.i.cs
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Love_Search\obj\Release\MainPage.g.cs
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Love_Search\obj\Release\XamlTypeInfo.g.cs
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Love_Search\obj\Release\App.xaml
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Love_Search\obj\Release\MainPage.xaml
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Love_Search\obj\Release\App.xbf
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Love_Search\obj\Release\MainPage.xbf
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Love_Search\obj\Release\XamlSaveStateFile.xml
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Love_Search\obj\Release\Love_Search.exe
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Love_Search\obj\Release\Love_Search.pdb
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Love_Search\obj\Release\Love_Search.csproj.GenerateResource.Cache
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Love_Search\obj\Release\priconfig.xml
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Love_Search\obj\Release\priconfig.xml.intermediate
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Love_Search\obj\Release\layout.resfiles
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Love_Search\obj\Release\layout.resfiles.intermediate
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Love_Search\obj\Release\resources.resfiles
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Love_Search\obj\Release\resources.resfiles.intermediate
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Love_Search\obj\Release\pri.resfiles
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Love_Search\obj\Release\pri.resfiles.intermediate
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Love_Search\obj\Release\qualifiers.txt
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Love_Search\obj\Release\qualifiers.txt.intermediate
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Love_Search\obj\Release\MultipleQualifiersPerDimensionFound.txt
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Love_Search\obj\Release\Coding4Fun.Toolkit.Audio.pri.xml
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Love_Search\obj\Release\Coding4Fun.Toolkit.Controls.pri.xml
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Love_Search\obj\Release\Coding4Fun.Toolkit.Net.pri.xml
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Love_Search\obj\Release\Coding4Fun.Toolkit.Storage.pri.xml
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Love_Search\obj\Release\ProjectArchitectures.txt

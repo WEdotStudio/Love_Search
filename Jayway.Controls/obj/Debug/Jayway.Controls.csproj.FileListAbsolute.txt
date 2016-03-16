@@ -1,0 +1,5 @@
+C:\QQDownload\RoundButton2\RoundButton\Jayway.Controls\Bin\Debug\Jayway.Controls.dll
+C:\QQDownload\RoundButton2\RoundButton\Jayway.Controls\Bin\Debug\Jayway.Controls.pdb
+C:\QQDownload\RoundButton2\RoundButton\Jayway.Controls\obj\Debug\Jayway.Controls.g.resources
+C:\QQDownload\RoundButton2\RoundButton\Jayway.Controls\obj\Debug\Jayway.Controls.dll
+C:\QQDownload\RoundButton2\RoundButton\Jayway.Controls\obj\Debug\Jayway.Controls.pdb

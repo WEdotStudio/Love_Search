@@ -1,0 +1,42 @@
+﻿<phone:PhoneApplicationPage
+    x:Class="Love_Search_2._0.BingPic"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:c4f="clr-namespace:Coding4Fun.Toolkit.Controls;assembly=Coding4Fun.Toolkit.Controls"
+    
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    mc:Ignorable="d"
+    shell:SystemTray.IsVisible="True"
+    shell:SystemTray.Opacity="0"
+    Loaded="PhoneApplicationPage_Loaded">
+
+
+    <!--LayoutRoot 是包含所有页面内容的根网格-->
+    <Grid x:Name="LayoutRoot" Background="#FFBF8B00" Margin="0,-1,0,1">
+<Image Source="/Assets/bing.png" Stretch="Fill" HorizontalAlignment="Right" VerticalAlignment="Top" Height="250" Width="250" Margin="0,-50,-50,0" Opacity="0.6"/>
+        <Image x:Name="imageshadow" Opacity="0.6" Source="{Binding Url}" Stretch="Fill"  IsHitTestVisible="False" Margin="27,134,110,66" />
+        <Image x:Name="image" Source="{Binding Url}" Stretch="Fill"  IsHitTestVisible="False" Margin="3,112,134,88" ImageOpened="image_ImageOpened"/>
+
+        <Popup IsOpen="True" VerticalAlignment="Top" Margin="0,20,0,0" Width="480" Height="40">
+            <Grid>
+                <TextBlock Foreground="Wheat" x:Name="txtCopyrightTitle" Text="{Binding CopyrightTitle}" FontSize="35"/>
+
+            </Grid>
+        </Popup>
+
+        <c4f:RoundButton Click="icbtnNext_Click" ImageSource="/Assets/next.png" Margin="396,370,22,342" />
+        <c4f:RoundButton Click="icbtnSave_Click" ImageSource="/Assets/appbar.save.rest.png" Margin="397,246,19,465" RenderTransformOrigin="-0.209,0.582" />
+        <c4f:RoundButton Click="icbtnSave_Click" ImageSource="/Assets/Share.png" Margin="397,308,22,403" RenderTransformOrigin="-0.209,0.582" />
+        <c4f:RoundButton Click="icbtnPre_Click" ImageSource="/Assets/back.png" Margin="397,188,19,527" RenderTransformOrigin="0.5,0.5" />
+        
+
+    </Grid>
+
+</phone:PhoneApplicationPage>

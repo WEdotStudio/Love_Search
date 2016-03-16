@@ -1,0 +1,278 @@
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Bing_Search\Bin\Release\Bing_Search.dll
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Bing_Search\Bin\Release\Bing_Search.pdb
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Bing_Search\Bin\Release\AppManifest.xaml
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Bing_Search\Bin\Release\Properties\WMAppManifest.xml
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Bing_Search\Bin\Release\Bing_Search_Release_AnyCPU.xap
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Bing_Search\Bin\Release\Silverlight_ZXing_Core.dll
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Bing_Search\obj\Release\App.g.cs
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Bing_Search\obj\Release\BarCode.g.cs
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Bing_Search\obj\Release\Page1.g.cs
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Bing_Search\obj\Release\Page2.g.cs
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Bing_Search\obj\Release\ScanResult.g.cs
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Bing_Search\obj\Release\Bing_Search.g.resources
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Bing_Search\obj\Release\Bing_Search.Resources.AppResources.resources
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Bing_Search\obj\Release\Bing_Search.csproj.GenerateResource.Cache
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Bing_Search\obj\Release\Bing_Search.dll
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Bing_Search\obj\Release\Bing_Search.pdb
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Bing_Search\obj\Release\XapCacheFile.xml
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Bing_Search\obj\Release\Page3.g.cs
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Bing_Search\obj\Release\SettingsWithoutConfirmation.g.cs
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Bing_Search\obj\Release\Page4.g.cs
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Bing_Search\Bin\Release\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Bing_Search\Bin\Release\ar-SA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Bing_Search\Bin\Release\az-Latn-AZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Bing_Search\Bin\Release\be-BY\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Bing_Search\Bin\Release\bg-BG\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Bing_Search\Bin\Release\ca-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Bing_Search\Bin\Release\cs-CZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Bing_Search\Bin\Release\da-DK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Bing_Search\Bin\Release\de-DE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Bing_Search\Bin\Release\el-GR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Bing_Search\Bin\Release\en-GB\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Bing_Search\Bin\Release\es-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Bing_Search\Bin\Release\es-MX\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Bing_Search\Bin\Release\et-EE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Bing_Search\Bin\Release\fa-IR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Bing_Search\Bin\Release\fi-FI\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Bing_Search\Bin\Release\fil-PH\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Bing_Search\Bin\Release\fr-CA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Bing_Search\Bin\Release\fr-FR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Bing_Search\Bin\Release\he-IL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Bing_Search\Bin\Release\hi-IN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Bing_Search\Bin\Release\hr-HR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Bing_Search\Bin\Release\hu-HU\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Bing_Search\Bin\Release\id-ID\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Bing_Search\Bin\Release\it-IT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Bing_Search\Bin\Release\ja-JP\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Bing_Search\Bin\Release\kk-KZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Bing_Search\Bin\Release\ko-KR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Bing_Search\Bin\Release\lt-LT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Bing_Search\Bin\Release\lv-LV\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Bing_Search\Bin\Release\mk-MK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Bing_Search\Bin\Release\ms-MY\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Bing_Search\Bin\Release\nb-NO\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Bing_Search\Bin\Release\nl-NL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Bing_Search\Bin\Release\pl-PL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Bing_Search\Bin\Release\pt-BR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Bing_Search\Bin\Release\pt-PT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Bing_Search\Bin\Release\ro-RO\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Bing_Search\Bin\Release\ru-RU\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Bing_Search\Bin\Release\sk-SK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Bing_Search\Bin\Release\sl-SI\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Bing_Search\Bin\Release\sq-AL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Bing_Search\Bin\Release\sr-Latn-CS\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Bing_Search\Bin\Release\sv-SE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Bing_Search\Bin\Release\th-TH\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Bing_Search\Bin\Release\tr-TR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Bing_Search\Bin\Release\uk-UA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Bing_Search\Bin\Release\uz-Latn-UZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Bing_Search\Bin\Release\vi-VN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Bing_Search\Bin\Release\zh-CN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Bing_Search\Bin\Release\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Bing_Search\obj\Release\firstrun.g.cs
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Bing_Search\obj\Release\Bing_Search.csprojResolveAssemblyReference.cache
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Bing_Search\obj\Release\VoiceAndCortana.g.cs
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Bing_Search\obj\Release\OldMainPage.g.cs
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Bing_Search\Bin\Release\UmengSocialWP.dll
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Bing_Search\Bin\Release\UmengSocialWP.pdb
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Bing_Search\Bin\Release\UmengSocialWP.xml
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Bing_Search\Bin\Release\Google.ProtocolBuffersLite.dll
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Bing_Search\Bin\Release\MicroMsgSDK.dll
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Bing_Search\obj\Release\WCEntry.g.cs
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Bing_Search\Bin\Release\Microsoft.Live.Controls.dll
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Bing_Search\Bin\Release\Microsoft.Live.dll
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Bing_Search\Bin\Release\Newtonsoft.Json.dll
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Bing_Search\Bin\Release\System.Net.Http.dll
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Bing_Search\Bin\Release\System.Net.Http.Extensions.dll
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Bing_Search\Bin\Release\System.Net.Http.Primitives.dll
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Bing_Search\Bin\Release\Newtonsoft.Json.xml
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Bing_Search\Bin\Release\System.Net.Http.xml
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Bing_Search\Bin\Release\System.Net.Http.Extensions.xml
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Bing_Search\Bin\Release\System.Net.Http.Primitives.xml
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Bing_Search\Bin\Release\cs\Microsoft.Live.Controls.resources.dll
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Bing_Search\Bin\Release\da\Microsoft.Live.Controls.resources.dll
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Bing_Search\Bin\Release\de\Microsoft.Live.Controls.resources.dll
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Bing_Search\Bin\Release\el\Microsoft.Live.Controls.resources.dll
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Bing_Search\Bin\Release\en\Microsoft.Live.Controls.resources.dll
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Bing_Search\Bin\Release\en-gb\Microsoft.Live.Controls.resources.dll
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Bing_Search\Bin\Release\es\Microsoft.Live.Controls.resources.dll
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Bing_Search\Bin\Release\fi\Microsoft.Live.Controls.resources.dll
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Bing_Search\Bin\Release\fr\Microsoft.Live.Controls.resources.dll
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Bing_Search\Bin\Release\hu\Microsoft.Live.Controls.resources.dll
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Bing_Search\Bin\Release\id\Microsoft.Live.Controls.resources.dll
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Bing_Search\Bin\Release\it\Microsoft.Live.Controls.resources.dll
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Bing_Search\Bin\Release\ja\Microsoft.Live.Controls.resources.dll
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Bing_Search\Bin\Release\ko\Microsoft.Live.Controls.resources.dll
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Bing_Search\Bin\Release\ms\Microsoft.Live.Controls.resources.dll
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Bing_Search\Bin\Release\nb-no\Microsoft.Live.Controls.resources.dll
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Bing_Search\Bin\Release\nl\Microsoft.Live.Controls.resources.dll
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Bing_Search\Bin\Release\pl\Microsoft.Live.Controls.resources.dll
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Bing_Search\Bin\Release\pt-br\Microsoft.Live.Controls.resources.dll
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Bing_Search\Bin\Release\pt-pt\Microsoft.Live.Controls.resources.dll
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Bing_Search\Bin\Release\ru\Microsoft.Live.Controls.resources.dll
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Bing_Search\Bin\Release\sv\Microsoft.Live.Controls.resources.dll
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Bing_Search\Bin\Release\zh-cn\Microsoft.Live.Controls.resources.dll
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Bing_Search\Bin\Release\zh-tw\Microsoft.Live.Controls.resources.dll
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Bing_Search\Bin\Release\Microsoft.Expression.Interactions.dll
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Bing_Search\Bin\Release\System.Windows.Interactivity.dll
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Bing_Search\Bin\Release\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Bing_Search\Bin\Release\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Bing_Search\Bin\Release\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Bing_Search\Bin\Release\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Bing_Search\Bin\Release\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Bing_Search\Bin\Release\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Bing_Search\Bin\Release\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Bing_Search\Bin\Release\ru\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Bing_Search\Bin\Release\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Bing_Search\Bin\Release\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Bing_Search\Bin\Release\de\System.Windows.Interactivity.resources.dll
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Bing_Search\Bin\Release\en\System.Windows.Interactivity.resources.dll
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Bing_Search\Bin\Release\es\System.Windows.Interactivity.resources.dll
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Bing_Search\Bin\Release\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Bing_Search\Bin\Release\it\System.Windows.Interactivity.resources.dll
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Bing_Search\Bin\Release\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Bing_Search\Bin\Release\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Bing_Search\Bin\Release\ru\System.Windows.Interactivity.resources.dll
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Bing_Search\Bin\Release\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Bing_Search\Bin\Release\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Bing_Search\obj\Release\OneNoteShare.g.cs
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Bing_Search\Bin\Release\Assets\Default.jpg
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Bing_Search\Bin\Release\Fonts\LiveSymbol.ttf
+C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Bing_Search\obj\Release\dia.g.cs
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Bing_Search\Bin\Release\Assets\Default.jpg
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Bing_Search\Bin\Release\Fonts\LiveSymbol.ttf
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Bing_Search\Bin\Release\Bing_Search.dll
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Bing_Search\Bin\Release\Bing_Search.pdb
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Bing_Search\Bin\Release\AppManifest.xaml
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Bing_Search\Bin\Release\Properties\WMAppManifest.xml
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Bing_Search\Bin\Release\Bing_Search_Release_AnyCPU.xap
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Bing_Search\Bin\Release\Microsoft.Expression.Interactions.dll
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Bing_Search\Bin\Release\Microsoft.Live.Controls.dll
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Bing_Search\Bin\Release\Microsoft.Live.dll
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Bing_Search\Bin\Release\Microsoft.Phone.Controls.Toolkit.dll
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Bing_Search\Bin\Release\Newtonsoft.Json.dll
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Bing_Search\Bin\Release\System.Net.Http.dll
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Bing_Search\Bin\Release\System.Net.Http.Extensions.dll
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Bing_Search\Bin\Release\System.Net.Http.Primitives.dll
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Bing_Search\Bin\Release\System.Windows.Interactivity.dll
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Bing_Search\Bin\Release\Newtonsoft.Json.xml
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Bing_Search\Bin\Release\System.Net.Http.xml
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Bing_Search\Bin\Release\System.Net.Http.Extensions.xml
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Bing_Search\Bin\Release\System.Net.Http.Primitives.xml
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Bing_Search\Bin\Release\UmengSocialWP.pdb
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Bing_Search\Bin\Release\UmengSocialWP.xml
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Bing_Search\Bin\Release\de\Microsoft.Expression.Interactions.resources.dll
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Bing_Search\Bin\Release\en\Microsoft.Expression.Interactions.resources.dll
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Bing_Search\Bin\Release\es\Microsoft.Expression.Interactions.resources.dll
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Bing_Search\Bin\Release\fr\Microsoft.Expression.Interactions.resources.dll
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Bing_Search\Bin\Release\it\Microsoft.Expression.Interactions.resources.dll
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Bing_Search\Bin\Release\ja\Microsoft.Expression.Interactions.resources.dll
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Bing_Search\Bin\Release\ko\Microsoft.Expression.Interactions.resources.dll
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Bing_Search\Bin\Release\ru\Microsoft.Expression.Interactions.resources.dll
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Bing_Search\Bin\Release\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Bing_Search\Bin\Release\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Bing_Search\Bin\Release\cs\Microsoft.Live.Controls.resources.dll
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Bing_Search\Bin\Release\da\Microsoft.Live.Controls.resources.dll
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Bing_Search\Bin\Release\de\Microsoft.Live.Controls.resources.dll
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Bing_Search\Bin\Release\el\Microsoft.Live.Controls.resources.dll
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Bing_Search\Bin\Release\en\Microsoft.Live.Controls.resources.dll
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Bing_Search\Bin\Release\en-gb\Microsoft.Live.Controls.resources.dll
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Bing_Search\Bin\Release\es\Microsoft.Live.Controls.resources.dll
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Bing_Search\Bin\Release\fi\Microsoft.Live.Controls.resources.dll
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Bing_Search\Bin\Release\fr\Microsoft.Live.Controls.resources.dll
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Bing_Search\Bin\Release\hu\Microsoft.Live.Controls.resources.dll
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Bing_Search\Bin\Release\id\Microsoft.Live.Controls.resources.dll
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Bing_Search\Bin\Release\it\Microsoft.Live.Controls.resources.dll
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Bing_Search\Bin\Release\ja\Microsoft.Live.Controls.resources.dll
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Bing_Search\Bin\Release\ko\Microsoft.Live.Controls.resources.dll
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Bing_Search\Bin\Release\ms\Microsoft.Live.Controls.resources.dll
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Bing_Search\Bin\Release\nb-no\Microsoft.Live.Controls.resources.dll
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Bing_Search\Bin\Release\nl\Microsoft.Live.Controls.resources.dll
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Bing_Search\Bin\Release\pl\Microsoft.Live.Controls.resources.dll
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Bing_Search\Bin\Release\pt-br\Microsoft.Live.Controls.resources.dll
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Bing_Search\Bin\Release\pt-pt\Microsoft.Live.Controls.resources.dll
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Bing_Search\Bin\Release\ru\Microsoft.Live.Controls.resources.dll
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Bing_Search\Bin\Release\sv\Microsoft.Live.Controls.resources.dll
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Bing_Search\Bin\Release\zh-cn\Microsoft.Live.Controls.resources.dll
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Bing_Search\Bin\Release\zh-tw\Microsoft.Live.Controls.resources.dll
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Bing_Search\Bin\Release\ar-SA\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Bing_Search\Bin\Release\az-Latn-AZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Bing_Search\Bin\Release\be-BY\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Bing_Search\Bin\Release\bg-BG\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Bing_Search\Bin\Release\ca-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Bing_Search\Bin\Release\cs-CZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Bing_Search\Bin\Release\da-DK\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Bing_Search\Bin\Release\de-DE\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Bing_Search\Bin\Release\el-GR\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Bing_Search\Bin\Release\en-GB\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Bing_Search\Bin\Release\es-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Bing_Search\Bin\Release\es-MX\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Bing_Search\Bin\Release\et-EE\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Bing_Search\Bin\Release\fa-IR\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Bing_Search\Bin\Release\fi-FI\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Bing_Search\Bin\Release\fil-PH\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Bing_Search\Bin\Release\fr-CA\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Bing_Search\Bin\Release\fr-FR\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Bing_Search\Bin\Release\he-IL\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Bing_Search\Bin\Release\hi-IN\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Bing_Search\Bin\Release\hr-HR\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Bing_Search\Bin\Release\hu-HU\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Bing_Search\Bin\Release\id-ID\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Bing_Search\Bin\Release\it-IT\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Bing_Search\Bin\Release\ja-JP\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Bing_Search\Bin\Release\kk-KZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Bing_Search\Bin\Release\ko-KR\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Bing_Search\Bin\Release\lt-LT\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Bing_Search\Bin\Release\lv-LV\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Bing_Search\Bin\Release\mk-MK\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Bing_Search\Bin\Release\ms-MY\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Bing_Search\Bin\Release\nb-NO\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Bing_Search\Bin\Release\nl-NL\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Bing_Search\Bin\Release\pl-PL\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Bing_Search\Bin\Release\pt-BR\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Bing_Search\Bin\Release\pt-PT\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Bing_Search\Bin\Release\ro-RO\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Bing_Search\Bin\Release\ru-RU\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Bing_Search\Bin\Release\sk-SK\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Bing_Search\Bin\Release\sl-SI\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Bing_Search\Bin\Release\sq-AL\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Bing_Search\Bin\Release\sr-Latn-CS\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Bing_Search\Bin\Release\sv-SE\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Bing_Search\Bin\Release\th-TH\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Bing_Search\Bin\Release\tr-TR\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Bing_Search\Bin\Release\uk-UA\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Bing_Search\Bin\Release\uz-Latn-UZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Bing_Search\Bin\Release\vi-VN\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Bing_Search\Bin\Release\zh-CN\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Bing_Search\Bin\Release\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Bing_Search\Bin\Release\de\System.Windows.Interactivity.resources.dll
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Bing_Search\Bin\Release\en\System.Windows.Interactivity.resources.dll
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Bing_Search\Bin\Release\es\System.Windows.Interactivity.resources.dll
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Bing_Search\Bin\Release\fr\System.Windows.Interactivity.resources.dll
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Bing_Search\Bin\Release\it\System.Windows.Interactivity.resources.dll
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Bing_Search\Bin\Release\ja\System.Windows.Interactivity.resources.dll
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Bing_Search\Bin\Release\ko\System.Windows.Interactivity.resources.dll
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Bing_Search\Bin\Release\ru\System.Windows.Interactivity.resources.dll
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Bing_Search\Bin\Release\zh-Hans\System.Windows.Interactivity.resources.dll
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Bing_Search\Bin\Release\zh-Hant\System.Windows.Interactivity.resources.dll
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Bing_Search\obj\Release\Bing_Search.csprojResolveAssemblyReference.cache
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Bing_Search\obj\Release\App.g.cs
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Bing_Search\obj\Release\BarCode.g.cs
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Bing_Search\obj\Release\dia.g.cs
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Bing_Search\obj\Release\firstrun.g.cs
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Bing_Search\obj\Release\OldMainPage.g.cs
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Bing_Search\obj\Release\OneNoteShare.g.cs
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Bing_Search\obj\Release\Page1.g.cs
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Bing_Search\obj\Release\Page2.g.cs
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Bing_Search\obj\Release\Page3.g.cs
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Bing_Search\obj\Release\Page4.g.cs
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Bing_Search\obj\Release\ScanResult.g.cs
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Bing_Search\obj\Release\SettingsWithoutConfirmation.g.cs
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Bing_Search\obj\Release\VoiceAndCortana.g.cs
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Bing_Search\obj\Release\WCEntry.g.cs
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Bing_Search\obj\Release\Bing_Search.g.resources
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Bing_Search\obj\Release\Bing_Search.Resources.AppResources.resources
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Bing_Search\obj\Release\Bing_Search.csproj.GenerateResource.Cache
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Bing_Search\obj\Release\Bing_Search.dll
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Bing_Search\obj\Release\Bing_Search.pdb
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Bing_Search\obj\Release\XapCacheFile.xml

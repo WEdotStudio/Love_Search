@@ -1,0 +1,213 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>NEW-PC</Machine>
+    <WindowsUser>new</WindowsUser>
+    <TargetPlatformIdentifier>Windows Phone</TargetPlatformIdentifier>
+    <SolutionConfiguration>Release|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>b69d01af-74dc-4c67-ba5e-fca17e501951</PackageIdentityName>
+    <IntermediateOutputPath>D:\文件中心\Windows Phone\开发\应用\Bing_Search\Love_Search_2.0\obj\Release\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\文件中心\Windows Phone\开发\应用\Bing_Search\Love_Search_2.0\Bin\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\文件中心\Windows Phone\开发\应用\Bing_Search\Love_Search_2.0\Bin\Release\Love_Search_2.0.dll">
+      <PackagePath>Love_Search_2.0.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\文件中心\Windows Phone\开发\应用\Bing_Search\Core\Bin\Release\LoveSearchCore.dll">
+      <PackagePath>LoveSearchCore.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\文件中心\Windows Phone\开发\应用\Bing_Search\packages\Coding4Fun.Toolkit.Controls.2.0.7\lib\windowsphone8\Coding4Fun.Toolkit.Controls.dll">
+      <PackagePath>Coding4Fun.Toolkit.Controls.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Expression\Blend\Windows Phone\v8.0\Libraries\Microsoft.Expression.Interactions.dll">
+      <PackagePath>Microsoft.Expression.Interactions.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\文件中心\Windows Phone\开发\开发sdk\条码扫描SDK\WP7BarcodeScannerExample-master\WP7BarcodeScannerExample\BarcodeScan\Silverlight_ZXing_Core.dll">
+      <PackagePath>Silverlight_ZXing_Core.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Expression\Blend\Windows Phone\v8.0\Libraries\System.Windows.Interactivity.dll">
+      <PackagePath>System.Windows.Interactivity.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Expression\Blend\Windows Phone\v8.0\Libraries\de\Microsoft.Expression.Interactions.resources.dll">
+      <PackagePath>de\Microsoft.Expression.Interactions.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Expression\Blend\Windows Phone\v8.0\Libraries\en\Microsoft.Expression.Interactions.resources.dll">
+      <PackagePath>en\Microsoft.Expression.Interactions.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Expression\Blend\Windows Phone\v8.0\Libraries\es\Microsoft.Expression.Interactions.resources.dll">
+      <PackagePath>es\Microsoft.Expression.Interactions.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Expression\Blend\Windows Phone\v8.0\Libraries\fr\Microsoft.Expression.Interactions.resources.dll">
+      <PackagePath>fr\Microsoft.Expression.Interactions.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Expression\Blend\Windows Phone\v8.0\Libraries\it\Microsoft.Expression.Interactions.resources.dll">
+      <PackagePath>it\Microsoft.Expression.Interactions.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Expression\Blend\Windows Phone\v8.0\Libraries\ja\Microsoft.Expression.Interactions.resources.dll">
+      <PackagePath>ja\Microsoft.Expression.Interactions.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Expression\Blend\Windows Phone\v8.0\Libraries\ko\Microsoft.Expression.Interactions.resources.dll">
+      <PackagePath>ko\Microsoft.Expression.Interactions.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Expression\Blend\Windows Phone\v8.0\Libraries\ru\Microsoft.Expression.Interactions.resources.dll">
+      <PackagePath>ru\Microsoft.Expression.Interactions.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Expression\Blend\Windows Phone\v8.0\Libraries\zh-Hans\Microsoft.Expression.Interactions.resources.dll">
+      <PackagePath>zh-Hans\Microsoft.Expression.Interactions.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Expression\Blend\Windows Phone\v8.0\Libraries\zh-Hant\Microsoft.Expression.Interactions.resources.dll">
+      <PackagePath>zh-Hant\Microsoft.Expression.Interactions.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Expression\Blend\Windows Phone\v8.0\Libraries\de\System.Windows.Interactivity.resources.dll">
+      <PackagePath>de\System.Windows.Interactivity.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Expression\Blend\Windows Phone\v8.0\Libraries\en\System.Windows.Interactivity.resources.dll">
+      <PackagePath>en\System.Windows.Interactivity.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Expression\Blend\Windows Phone\v8.0\Libraries\es\System.Windows.Interactivity.resources.dll">
+      <PackagePath>es\System.Windows.Interactivity.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Expression\Blend\Windows Phone\v8.0\Libraries\fr\System.Windows.Interactivity.resources.dll">
+      <PackagePath>fr\System.Windows.Interactivity.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Expression\Blend\Windows Phone\v8.0\Libraries\it\System.Windows.Interactivity.resources.dll">
+      <PackagePath>it\System.Windows.Interactivity.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Expression\Blend\Windows Phone\v8.0\Libraries\ja\System.Windows.Interactivity.resources.dll">
+      <PackagePath>ja\System.Windows.Interactivity.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Expression\Blend\Windows Phone\v8.0\Libraries\ko\System.Windows.Interactivity.resources.dll">
+      <PackagePath>ko\System.Windows.Interactivity.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Expression\Blend\Windows Phone\v8.0\Libraries\ru\System.Windows.Interactivity.resources.dll">
+      <PackagePath>ru\System.Windows.Interactivity.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Expression\Blend\Windows Phone\v8.0\Libraries\zh-Hans\System.Windows.Interactivity.resources.dll">
+      <PackagePath>zh-Hans\System.Windows.Interactivity.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Expression\Blend\Windows Phone\v8.0\Libraries\zh-Hant\System.Windows.Interactivity.resources.dll">
+      <PackagePath>zh-Hant\System.Windows.Interactivity.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\文件中心\Windows Phone\开发\应用\Bing_Search\Love_Search_2.0\Assets\AlignmentGrid.png">
+      <PackagePath>Assets\AlignmentGrid.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\文件中心\Windows Phone\开发\应用\Bing_Search\Love_Search_2.0\Assets\appbar.save.rest.png">
+      <PackagePath>Assets\appbar.save.rest.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\文件中心\Windows Phone\开发\应用\Bing_Search\Love_Search_2.0\Assets\ApplicationIcon.png">
+      <PackagePath>Assets\ApplicationIcon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\文件中心\Windows Phone\开发\应用\Bing_Search\Love_Search_2.0\Assets\back.png">
+      <PackagePath>Assets\back.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\文件中心\Windows Phone\开发\应用\Bing_Search\Love_Search_2.0\Assets\BadgeLogo.png">
+      <PackagePath>Assets\BadgeLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\文件中心\Windows Phone\开发\应用\Bing_Search\Love_Search_2.0\Assets\barcode.png">
+      <PackagePath>Assets\barcode.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\文件中心\Windows Phone\开发\应用\Bing_Search\Love_Search_2.0\Assets\bing.png">
+      <PackagePath>Assets\bing.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\文件中心\Windows Phone\开发\应用\Bing_Search\Love_Search_2.0\Assets\code.png">
+      <PackagePath>Assets\code.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\文件中心\Windows Phone\开发\应用\Bing_Search\Love_Search_2.0\Assets\favs.png">
+      <PackagePath>Assets\favs.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\文件中心\Windows Phone\开发\应用\Bing_Search\Love_Search_2.0\Assets\GoToSource.png">
+      <PackagePath>Assets\GoToSource.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\文件中心\Windows Phone\开发\应用\Bing_Search\Love_Search_2.0\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\文件中心\Windows Phone\开发\应用\Bing_Search\Love_Search_2.0\Assets\next.png">
+      <PackagePath>Assets\next.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\文件中心\Windows Phone\开发\应用\Bing_Search\Love_Search_2.0\Assets\onenote.png">
+      <PackagePath>Assets\onenote.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\文件中心\Windows Phone\开发\应用\Bing_Search\Love_Search_2.0\Assets\qr_code.png">
+      <PackagePath>Assets\qr_code.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\文件中心\Windows Phone\开发\应用\Bing_Search\Love_Search_2.0\Assets\questionmark.png">
+      <PackagePath>Assets\questionmark.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\文件中心\Windows Phone\开发\应用\Bing_Search\Love_Search_2.0\Assets\refresh.png">
+      <PackagePath>Assets\refresh.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\文件中心\Windows Phone\开发\应用\Bing_Search\Love_Search_2.0\Assets\search.png">
+      <PackagePath>Assets\search.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\文件中心\Windows Phone\开发\应用\Bing_Search\Love_Search_2.0\Assets\settings.png">
+      <PackagePath>Assets\settings.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\文件中心\Windows Phone\开发\应用\Bing_Search\Love_Search_2.0\Assets\Share.png">
+      <PackagePath>Assets\Share.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\文件中心\Windows Phone\开发\应用\Bing_Search\Love_Search_2.0\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\文件中心\Windows Phone\开发\应用\Bing_Search\Love_Search_2.0\Assets\squaretile.png">
+      <PackagePath>Assets\squaretile.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\文件中心\Windows Phone\开发\应用\Bing_Search\Love_Search_2.0\Assets\SquareTile150x150.png">
+      <PackagePath>Assets\SquareTile150x150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\文件中心\Windows Phone\开发\应用\Bing_Search\Love_Search_2.0\Assets\SquareTile71x71.png">
+      <PackagePath>Assets\SquareTile71x71.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\文件中心\Windows Phone\开发\应用\Bing_Search\Love_Search_2.0\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\文件中心\Windows Phone\开发\应用\Bing_Search\Love_Search_2.0\Assets\tool.png">
+      <PackagePath>Assets\tool.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\文件中心\Windows Phone\开发\应用\Bing_Search\Love_Search_2.0\Assets\WideLogo.png">
+      <PackagePath>Assets\WideLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\文件中心\Windows Phone\开发\应用\Bing_Search\Love_Search_2.0\Assets\Tiles\FlipCycleTileLarge.png">
+      <PackagePath>Assets\Tiles\FlipCycleTileLarge.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\文件中心\Windows Phone\开发\应用\Bing_Search\Love_Search_2.0\Assets\Tiles\FlipCycleTileMedium.png">
+      <PackagePath>Assets\Tiles\FlipCycleTileMedium.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\文件中心\Windows Phone\开发\应用\Bing_Search\Love_Search_2.0\Assets\Tiles\FlipCycleTileSmall.png">
+      <PackagePath>Assets\Tiles\FlipCycleTileSmall.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\文件中心\Windows Phone\开发\应用\Bing_Search\Love_Search_2.0\Assets\Tiles\IconicTileMediumLarge.png">
+      <PackagePath>Assets\Tiles\IconicTileMediumLarge.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\文件中心\Windows Phone\开发\应用\Bing_Search\Love_Search_2.0\Assets\Tiles\IconicTileSmall.png">
+      <PackagePath>Assets\Tiles\IconicTileSmall.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\文件中心\Windows Phone\开发\应用\Bing_Search\Love_Search_2.0\Assets\widetile.png">
+      <PackagePath>Assets\widetile.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\文件中心\Windows Phone\开发\应用\Bing_Search\Love_Search_2.0\Toolkit.Content\ApplicationBar.Cancel.png">
+      <PackagePath>Toolkit.Content\ApplicationBar.Cancel.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\文件中心\Windows Phone\开发\应用\Bing_Search\Love_Search_2.0\Toolkit.Content\ApplicationBar.Check.png">
+      <PackagePath>Toolkit.Content\ApplicationBar.Check.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\文件中心\Windows Phone\开发\应用\Bing_Search\Love_Search_2.0\Assets\Default.jpg">
+      <PackagePath>Assets\Default.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\文件中心\Windows Phone\开发\应用\Bing_Search\Love_Search_2.0\Bin\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>NEW-PC</Machine>
+    <WindowsUser>Backup</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>ca13ab5e-c2bf-42ec-b894-5329368164e6</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Love_Search\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Love_Search\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Love_Search\bin\Debug\Love_Search.exe">
+      <PackagePath>Love_Search.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Love_Search\Assets\Default.jpg">
+      <PackagePath>Assets\Default.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Love_Search\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Love_Search\Assets\search.png">
+      <PackagePath>Assets\search.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Love_Search\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Love_Search\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Love_Search\Assets\squaretile.png">
+      <PackagePath>Assets\squaretile.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Love_Search\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Love_Search\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Love_Search\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Love_Search\bin\Debug\Love_Search.xr.xml">
+      <PackagePath>Love_Search.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Love_Search\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

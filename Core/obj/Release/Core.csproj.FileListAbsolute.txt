@@ -1,0 +1,6 @@
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Core\Bin\Release\LoveSearchCore.dll
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Core\Bin\Release\LoveSearchCore.pdb
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Core\Bin\Release\Silverlight_ZXing_Core.dll
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Core\obj\Release\Core.csprojResolveAssemblyReference.cache
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Core\obj\Release\LoveSearchCore.dll
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Core\obj\Release\LoveSearchCore.pdb

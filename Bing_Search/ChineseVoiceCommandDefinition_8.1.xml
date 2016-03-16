@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<VoiceCommands xmlns="http://schemas.microsoft.com/voicecommands/1.1">
+  <CommandSet xml:lang="zh-CN">
+    <CommandPrefix>爱搜索</CommandPrefix>
+    <Example>爱搜索，搜索一切</Example>
+
+
+    <Command Name="Barcode">
+      <Example> 扫条码</Example>
+      <ListenFor> 扫条码</ListenFor>
+      <Feedback>正在进入 扫描条码... </Feedback>
+      <Navigate Target="BarCode.xaml" />
+    </Command>
+
+    <Command Name="QRCode">
+      <Example> 扫二维码</Example>
+      <ListenFor>扫[二维]码</ListenFor>
+      <Feedback> 正在进入 扫描二维码... </Feedback>
+      <Navigate Target="BarCode.xaml?type=qrcode" />
+    </Command>
+    <Command Name="Search">
+      <Example> 用 百度 搜索 WP</Example>
+      <ListenFor>[用]{engines}[搜][索][查][找]{keywords}</ListenFor>
+      <Feedback> 正在为您查找{keywords}... </Feedback>
+      <Navigate Target="VoiceAndCortana.xaml" />
+    </Command>
+    <Command Name="DSearch">
+      <Example> 搜索 种子（此功能需要设定默认搜索引擎）</Example>
+      <ListenFor>搜索{keywords}</ListenFor>
+      <ListenFor>搜{keywords}</ListenFor>
+      <ListenFor>查找{keywords}</ListenFor>
+      <ListenFor>找{keywords}</ListenFor>
+      <ListenFor>什么是{keywords}</ListenFor>
+      <Feedback> 正在使用默认搜索引擎为您查找{keywords}... </Feedback>
+      <Navigate Target="VoiceAndCortana.xaml" />
+    </Command>
+    <Command Name="vpn">
+    <Example> 复制VPN地址</Example>
+    <ListenFor>复制VPN[地址]</ListenFor>
+    <Feedback>正在复制最新VPN地址.. </Feedback>
+    <Navigate Target="VoiceAndCortana.xaml" />
+  </Command>
+    <PhraseTopic Label="engines" Scenario="Search">
+      <Subject>搜索引擎</Subject>
+    </PhraseTopic>
+    <PhraseTopic Label="keywords" Scenario="Natrual Language"/>
+  </CommandSet>
+  
+</VoiceCommands>
+

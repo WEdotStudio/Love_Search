@@ -1,0 +1,5 @@
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Jayway.Controls\Bin\Release\Jayway.Controls.dll
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Jayway.Controls\Bin\Release\Jayway.Controls.pdb
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Jayway.Controls\obj\Release\Jayway.Controls.g.resources
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Jayway.Controls\obj\Release\Jayway.Controls.dll
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Jayway.Controls\obj\Release\Jayway.Controls.pdb

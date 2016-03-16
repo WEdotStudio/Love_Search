@@ -1,0 +1,13 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="c:\users\backup\documents\visual studio 2013\projects\bing_search\love_search\obj\release\intermediatexaml\love_search.exe" HashGuid="c839fc2c-8b42-1f9e-59f0-7c628823c570" />
+    <ReferenceAssembly PathName="d:\file center\windows phone\developing\application\bing_search\packages\coding4fun.toolkit.audio.2.0.7\lib\windows8\coding4fun.toolkit.audio.dll" HashGuid="84dafd40-75ce-409a-2d01-d18008d0916c" />
+    <ReferenceAssembly PathName="d:\file center\windows phone\developing\application\bing_search\packages\coding4fun.toolkit.controls.2.0.7\lib\windows8\coding4fun.toolkit.controls.dll" HashGuid="130201a2-c8a1-1ba1-bd40-eb94fe3e66a2" />
+    <ReferenceAssembly PathName="d:\file center\windows phone\developing\application\bing_search\packages\coding4fun.toolkit.net.2.0.7\lib\windows8\coding4fun.toolkit.net.dll" HashGuid="a4bcaf6e-68d0-dd35-856d-7058f550a15a" />
+    <ReferenceAssembly PathName="d:\file center\windows phone\developing\application\bing_search\packages\coding4fun.toolkit.storage.2.0.7\lib\windows8\coding4fun.toolkit.storage.dll" HashGuid="2ace4e16-5aa8-b1ba-4e2c-df4600fc1913" />
+    <ReferenceAssembly PathName="d:\file center\windows phone\developing\application\bing_search\packages\livesdk.5.6\windowsxaml\microsoft.live.dll" HashGuid="129ce77c-af09-9d5d-b95e-bf89af6739c7" />
+    <ReferenceAssembly PathName="d:\file center\windows phone\developing\application\bing_search\packages\newtonsoft.json.6.0.4\lib\netcore45\newtonsoft.json.dll" HashGuid="21d6fdf9-5b56-582d-4524-cf342594819a" />
+    <ReferenceAssembly PathName="d:\file center\windows phone\developing\application\bing_search\packages\microsoft.net.http.2.2.28\lib\win8\system.net.http.extensions.dll" HashGuid="b50282f8-b9f8-4408-8d49-ba2efe301624" />
+    <ReferenceAssembly PathName="d:\file center\windows phone\developing\application\bing_search\packages\microsoft.net.http.2.2.28\lib\win8\system.net.http.primitives.dll" HashGuid="7b71418d-e056-7613-c839-85fb8f6472a6" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>

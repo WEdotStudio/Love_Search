@@ -1,0 +1,2 @@
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Bing_Pic\Bing_Pic.csproj;neutral
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Core\Core.csproj;neutral

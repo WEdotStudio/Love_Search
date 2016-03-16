@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>NEW-PC</Machine>
+    <WindowsUser>Backup</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Release|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>ca13ab5e-c2bf-42ec-b894-5329368164e6</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Love_Search\obj\Release\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>69F839645EC6AD9BE69D90C7B7D0C8A8778EF5A77E3225C9188103C9D2B48C31</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>ca13ab5e-c2bf-42ec-b894-5329368164e6_1.0.0.0_neutral__5q8r4nte429ar</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>ca13ab5e-c2bf-42ec-b894-5329368164e6_5q8r4nte429ar!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>ca13ab5e-c2bf-42ec-b894-5329368164e6</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Backup</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Love_Search\bin\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-08-22T07:02:41.779</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Love_Search\bin\Release\Love_Search.exe">
+      <PackagePath>Love_Search.exe</PackagePath>
+      <Modified>2014-08-25T14:43:47.037</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Love_Search\Assets\Default.jpg">
+      <PackagePath>Assets\Default.jpg</PackagePath>
+      <Modified>2014-08-22T06:44:41.791</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Love_Search\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-09-24T16:00:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Love_Search\Assets\search.png">
+      <PackagePath>Assets\search.png</PackagePath>
+      <Modified>2014-08-22T06:40:17.487</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Love_Search\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-09-24T16:00:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Love_Search\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-09-24T16:00:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Love_Search\Assets\squaretile.png">
+      <PackagePath>Assets\squaretile.png</PackagePath>
+      <Modified>2014-08-22T06:39:14.064</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Love_Search\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-09-24T16:00:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Love_Search\bin\Release\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2014-08-22T06:50:34.158</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Love_Search\bin\Release\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2014-08-25T14:43:46.627</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Love_Search\bin\Release\Love_Search.xr.xml">
+      <PackagePath>Love_Search.xr.xml</PackagePath>
+      <Modified>2014-08-25T14:38:03.554</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Backup\documents\visual studio 2013\Projects\Bing_Search\Love_Search\bin\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-08-22T07:02:41.329</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

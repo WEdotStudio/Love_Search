@@ -1,0 +1,2 @@
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Core\Core.csproj;neutral
+D:\文件中心\Windows Phone\开发\应用\Bing_Search\Love_Search_2.0\Love_Search_2.0.csproj;neutral

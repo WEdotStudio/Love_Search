@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>NEW-PC</Machine>
+    <WindowsUser>new</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Release|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>ca13ab5e-c2bf-42ec-b894-5329368164e6</PackageIdentityName>
+    <IntermediateOutputPath>D:\文件中心\Windows Phone\开发\应用\Bing_Search\Love_Search\obj\Release\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\文件中心\Windows Phone\开发\应用\Bing_Search\Love_Search\bin\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\文件中心\Windows Phone\开发\应用\Bing_Search\Love_Search\bin\Release\Love_Search.exe">
+      <PackagePath>Love_Search.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\文件中心\Windows Phone\开发\应用\Bing_Search\packages\Coding4Fun.Toolkit.Audio.2.0.7\lib\windows8\Coding4Fun.Toolkit.Audio.dll">
+      <PackagePath>Coding4Fun.Toolkit.Audio.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\文件中心\Windows Phone\开发\应用\Bing_Search\packages\Coding4Fun.Toolkit.Controls.2.0.7\lib\windows8\Coding4Fun.Toolkit.Controls.dll">
+      <PackagePath>Coding4Fun.Toolkit.Controls.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\文件中心\Windows Phone\开发\应用\Bing_Search\packages\Coding4Fun.Toolkit.Net.2.0.7\lib\windows8\Coding4Fun.Toolkit.Net.dll">
+      <PackagePath>Coding4Fun.Toolkit.Net.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\文件中心\Windows Phone\开发\应用\Bing_Search\packages\Coding4Fun.Toolkit.Storage.2.0.7\lib\windows8\Coding4Fun.Toolkit.Storage.dll">
+      <PackagePath>Coding4Fun.Toolkit.Storage.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\文件中心\Windows Phone\开发\应用\Bing_Search\packages\LiveSDK.5.6\WindowsXAML\Microsoft.Live.dll">
+      <PackagePath>Microsoft.Live.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\文件中心\Windows Phone\开发\应用\Bing_Search\packages\Newtonsoft.Json.6.0.4\lib\netcore45\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\文件中心\Windows Phone\开发\应用\Bing_Search\packages\Microsoft.Net.Http.2.2.28\lib\win8\System.Net.Http.Extensions.dll">
+      <PackagePath>System.Net.Http.Extensions.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\文件中心\Windows Phone\开发\应用\Bing_Search\packages\Microsoft.Net.Http.2.2.28\lib\win8\System.Net.Http.Primitives.dll">
+      <PackagePath>System.Net.Http.Primitives.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\文件中心\Windows Phone\开发\应用\Bing_Search\Love_Search\Fonts\LiveSymbol.ttf">
+      <PackagePath>Fonts\LiveSymbol.ttf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\文件中心\Windows Phone\开发\应用\Bing_Search\Love_Search\ReadMe.Coding4Fun.Toolkit.txt">
+      <PackagePath>ReadMe.Coding4Fun.Toolkit.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\文件中心\Windows Phone\开发\应用\Bing_Search\Love_Search\Assets\Default.jpg">
+      <PackagePath>Assets\Default.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\文件中心\Windows Phone\开发\应用\Bing_Search\Love_Search\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\文件中心\Windows Phone\开发\应用\Bing_Search\Love_Search\Assets\search.png">
+      <PackagePath>Assets\search.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\文件中心\Windows Phone\开发\应用\Bing_Search\Love_Search\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\文件中心\Windows Phone\开发\应用\Bing_Search\Love_Search\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\文件中心\Windows Phone\开发\应用\Bing_Search\Love_Search\Assets\squaretile.png">
+      <PackagePath>Assets\squaretile.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\文件中心\Windows Phone\开发\应用\Bing_Search\Love_Search\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\文件中心\Windows Phone\开发\应用\Bing_Search\Love_Search\bin\Release\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\文件中心\Windows Phone\开发\应用\Bing_Search\Love_Search\bin\Release\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\文件中心\Windows Phone\开发\应用\Bing_Search\Love_Search\bin\Release\Love_Search.xr.xml">
+      <PackagePath>Love_Search.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\文件中心\Windows Phone\开发\应用\Bing_Search\packages\Coding4Fun.Toolkit.Controls.2.0.7\lib\windows8\Coding4Fun.Toolkit.Controls\Themes\Generic.xaml">
+      <PackagePath>Coding4Fun.Toolkit.Controls\Themes\Generic.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\文件中心\Windows Phone\开发\应用\Bing_Search\Love_Search\bin\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
