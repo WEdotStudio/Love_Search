@@ -1,3 +1,4 @@
-Love Search（Ai Sou Suo)
-=========
-This app is discontinued. Code can be freely use.
+#Love_search
+Love Search（爱搜索）
+
+This app is discontiuned. The code is allowed to distribute freely.
