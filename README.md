@@ -1,4 +1,6 @@
-### Love Search（爱搜索）
+# Love Search（爱搜索）
+![Maintenance](https://img.shields.io/maintenance/no/2015.svg?style=flat-square)
+
 This is a powerful search tool on Windows Phone. Since Microsoft suddenly pulled my app without a reason, I decided to discontinue this app. The code is allowed to distribute freely.
 <https://www.microsoft.com/store/apps/9wzdncrdrbc9>
 
